@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-spring-boot-3-webmvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-service" target="17" />
+      <module name="demo-book-service" target="17" />
+      <module name="demo-microservices" target="17" />
+      <module name="demo-oauth2" target="17" />
+      <module name="demo-person-service" target="17" />
+      <module name="demo-spring-boot-3-webflux" target="17" />
+      <module name="demo-spring-boot-3-webflux-functional" target="17" />
+      <module name="demo-spring-cloud-function" target="17" />
+      <module name="demo-spring-data-rest" target="17" />
+      <module name="demo-spring-hateoas" target="17" />
+      <module name="department-service" target="17" />
+      <module name="discovery-service" target="17" />
+      <module name="employee-service" target="17" />
+      <module name="gateway-service" target="17" />
+      <module name="oauth-authorization-server" target="17" />
+      <module name="oauth-resource-server-webflux" target="17" />
+      <module name="oauth-resource-server-webmvc" target="17" />
+      <module name="organization-service" target="17" />
+      <module name="spring-cloud-function-webflux" target="17" />
+      <module name="spring-cloud-function-webmvc" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-service" options="-parameters" />
+      <module name="demo-book-service" options="-parameters" />
+      <module name="demo-person-service" options="-parameters" />
+      <module name="demo-spring-boot-3-webflux" options="-parameters" />
+      <module name="demo-spring-boot-3-webflux-functional" options="-parameters" />
+      <module name="demo-spring-boot-3-webmvc" options="-parameters" />
+      <module name="demo-spring-data-rest" options="-parameters" />
+      <module name="demo-spring-hateoas" options="-parameters" />
+      <module name="department-service" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="employee-service" options="-parameters" />
+      <module name="gateway-service" options="-parameters" />
+      <module name="oauth-authorization-server" options="-parameters" />
+      <module name="oauth-resource-server-webflux" options="-parameters" />
+      <module name="oauth-resource-server-webmvc" options="-parameters" />
+      <module name="organization-service" options="-parameters" />
+      <module name="spring-cloud-function-webflux" options="-parameters" />
+      <module name="spring-cloud-function-webmvc" options="-parameters" />
+    </option>
+  </component>
+</project>

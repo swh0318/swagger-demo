@@ -108,16 +108,7 @@
 	</repositories>
 
 	<modules>
-		<module>demo-book-service</module>
-		<module>demo-microservices</module>
-		<module>demo-spring-boot-3-webflux-functional</module>
-		<module>demo-spring-boot-3-webflux</module>
 		<module>demo-spring-boot-3-webmvc</module>
-		<module>demo-oauth2</module>
-		<module>demo-person-service</module>
-		<module>demo-spring-hateoas</module>
-		<module>demo-spring-data-rest</module>
-		<module>demo-spring-cloud-function</module>
 	</modules>
 
 	<properties>

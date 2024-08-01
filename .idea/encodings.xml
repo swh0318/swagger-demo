@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo-book-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/department-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/employee-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/organization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-microservices/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-oauth2/oauth-authorization-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-oauth2/oauth-resource-server-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-oauth2/oauth-resource-server-webmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-oauth2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-oauth2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-person-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-boot-3-webflux-functional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-boot-3-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-boot-3-webmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-cloud-function/spring-cloud-function-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-cloud-function/spring-cloud-function-webmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-cloud-function/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-cloud-function/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-data-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-hateoas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,41 +1,31 @@
-# springdoc-openapi demo with spring-boot-2 web-mvc
+[![Build Status](https://ci-cd.springdoc.org:8443/buildStatus/icon?job=springdoc-openapi-demos%2Fmaster)](https://ci-cd.springdoc.org:8443/view/springdoc-openapi-demos/job/springdoc-openapi-demos/job/master/)
 
-## Building application
 
-### Pre-requisites
+# Spring-boot with OpenAPI Demo applications.
 
-- JDK 8+
-- maven 3
-- docker CLI
+## [Demo Spring Boot 3 Web MVC with OpenAPI 3](https://demos.springdoc.org/demo-spring-boot-3-webmvc).
 
-### Option 1: Building Executable JAR
+## [Demo Spring Boot 3 WebFlux with OpenAPI 3](https://demos.springdoc.org/demo-spring-boot-3-webflux/swagger-ui.html).
 
-To create an `executable jar`, simply run:
+## [Demo Spring Boot 3 WebFlux with Functional endpoints OpenAPI 3](https://demos.springdoc.org/demo-spring-boot-3-webflux-functional/swagger-ui.html).
 
-```sh
- mvn clean package
-```
+## [Demo Spring Boot 3 and Spring Cloud Function Web MVC](https://demos.springdoc.org/spring-cloud-function-webmvc).
 
-### Option 2: Building a non-native OCI Images
+## [Demo Spring Boot 3 and Spring Cloud Function WebFlux](https://demos.springdoc.org/spring-cloud-function-webflux/swagger-ui.html).
 
-To create a non-native OCI docker image, simply run:
+## [Demo Spring Boot 3 and Spring Cloud Gateway](https://demos.springdoc.org/demo-microservices/swagger-ui.html).
 
-```sh
-mvn clean spring-boot:build-image
-```
 
-### Option 3: Building native image with GraalVM
+![Branching](https://springdoc.org/img/pets.png)
 
-To create a `native image`, Run the following command
+# **Thank you for the support**
 
-```sh
-mvn -Pnative clean native:compile 
-```
+* Thanks a lot [JetBrains](https://www.jetbrains.com/?from=springdoc-openapi) for
+  supporting springdoc-openapi project.
 
-## Running the native application
+![JenBrains logo](https://springdoc.org/img/jetbrains.svg)
 
-To run the demo using docker, invoke the following:
 
-```sh
-docker run --rm -p 8080:8081 springdoc-openapi-spring-boot-2-webmvc:3.1.6-SNAPSHOT
-```
+
+
+
